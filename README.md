@@ -15,7 +15,7 @@ I'm currently learning Python, SQL, and Data Visualization, and building project
 - Machine Learning fundamentals (Scikit-learn)
 
 ### 🛠️ Tools I use
-Python · Pandas · NumPy · SQL · Power BI · Matplotlib · Seaborn · Excel · Jupyter Notebook
+Python · Pandas · NumPy · SQL · Power BI · Matplotlib · Seaborn · Excel 
 
 ### 📫 Reach me
 - LinkedIn: [Kartikey Kumar Singh](https://www.linkedin.com/in/kartikey-kumar-singh-aa6348307)

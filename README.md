@@ -1,6 +1,6 @@
 # Hi there, I'm Kartikey 👋
 
-## Aspiring Data Analyst | Data Science Enthusiast
+## Data Analyst | Data Science Enthusiast
 
 I'm currently learning Python, SQL, and Data Visualization, and building projects to apply what I learn. This GitHub is where I document my journey from basics to advanced data analysis and machine learning.
 
